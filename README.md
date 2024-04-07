@@ -1,0 +1,2 @@
+# Lora-E32-STM32
+Lora E32 433T30D for STM32 using HAL I2C
