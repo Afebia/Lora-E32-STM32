@@ -1,2 +1,2 @@
 # Lora-E32-STM32
-Lora E32 433T30D for STM32 using HAL USART
+Lora E32 433T20D for STM32 using HAL USART
